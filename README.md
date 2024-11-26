@@ -1,3 +1,3 @@
 # Proyek_Mobile_Dev
-Jojocina, Caroline, Delicia, Victoryo
+Jojo suka pria cina, Caroline, Delicia, Victoryo
 11220247
