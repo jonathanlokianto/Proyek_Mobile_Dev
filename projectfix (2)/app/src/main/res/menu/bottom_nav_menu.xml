@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/check_in"
+        android:icon="@drawable/baseline_checkin_24"
+        android:title="@string/check" />
+
+    <item
+        android:id="@+id/learn"
+        android:icon="@drawable/baseline_learn_24"
+        android:title="@string/learn" />
+
+    <item
+        android:id="@+id/statistic"
+        android:icon="@drawable/baseline_statistic_24"
+        android:title="@string/statistic" />
+
+    <item
+        android:id="@+id/profile"
+        android:icon="@drawable/baseline_profile_24"
+        android:title="@string/profile" />
+</menu>
